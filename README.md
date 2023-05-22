@@ -7,7 +7,7 @@ The step is as follows:
 3.Press user button B1(lest button).  
 4.Observe how the blinking of green LED LD2 changes according to clicks on button B1. 
 
-Group members:
+Group members: 
 1.RAN PENGHAO  
 2.HU YANBING  
 3.PENG YILIN  
