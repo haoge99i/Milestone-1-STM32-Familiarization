@@ -8,6 +8,7 @@ The step is as follows:
 4.Observe how the blinking of green LED LD2 changes according to clicks on button B1. 
 
 Group members:
-1.RAN PENGHAO
-2.HU YANBING
-3.PENG YILIN
+1.RAN PENGHAO 
+2.HU YANBING 
+3.PENG YILIN 
+ 
