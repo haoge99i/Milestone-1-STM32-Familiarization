@@ -1,4 +1,4 @@
-# Milestone-1-STM32-Familiarization
+# Milestone-1-STM32-Familiarization			 
 This purpose is to familiarizate the STM32F446 board and make it blink.
 
 The step is as follows:
