@@ -7,6 +7,14 @@ The step is as follows:
 3.Press user button B1(lest button).  
 4.Observe how the blinking of green LED LD2 changes according to clicks on button B1. 
 
+The blink code is:
+while (1)
+  {
+   HAL_Delay(500);
+	  HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
+  }
+  
+
 Group members:  
 1.RAN PENGHAO  
 2.HU YANBING  
